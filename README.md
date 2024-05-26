@@ -1,7 +1,7 @@
 # Assignment Specifics: Pizza Parlour API
 
-This code was coded in python. It is a virtual pizza parlour based on provided client requirements using Python. 
-See the link for more information about this project
+This code was written in Python for a virtual pizza parlor, based on client-provided requirements. 
+For more information about this project, see the link https://github.com/PaschalO/PizzaParlour/blob/main/A2-Handout-UofT-CSC301-Winter-2020.pdf.
 
 ## Client Requirements
 - Submit and update orders
